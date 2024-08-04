@@ -1,4 +1,4 @@
 # apnacollege-demo
 Hello world
 <br>
-Author - Lalith
+Author - G Lalith Shiva Sai
